@@ -316,3 +316,5 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
+#EXTINF:-1 tvg-id="Bem Mais TV" tvg-name="Bem Mais TV" tvg-logo="https://imgur.com/E6ILeP9" group-title="Family's",电视指南
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
